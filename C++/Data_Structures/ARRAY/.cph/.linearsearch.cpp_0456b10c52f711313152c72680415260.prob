@@ -1,0 +1,1 @@
+{"name":"Local: linearsearch","url":"/home/pratyush/Desktop/basicsprogramming/C/Data_Structures/ARRAY/linearsearch.cpp","tests":[{"id":1665998935070,"input":"3\n25 22 21\n22","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratyush/Desktop/basicsprogramming/C/Data_Structures/ARRAY/linearsearch.cpp","group":"local","local":true}
